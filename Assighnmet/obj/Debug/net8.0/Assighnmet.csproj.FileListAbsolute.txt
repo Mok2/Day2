@@ -1,0 +1,14 @@
+C:\Users\Hima\source\repos\Day02G01\Assighnmet\bin\Debug\net8.0\Assighnmet.exe
+C:\Users\Hima\source\repos\Day02G01\Assighnmet\bin\Debug\net8.0\Assighnmet.deps.json
+C:\Users\Hima\source\repos\Day02G01\Assighnmet\bin\Debug\net8.0\Assighnmet.runtimeconfig.json
+C:\Users\Hima\source\repos\Day02G01\Assighnmet\bin\Debug\net8.0\Assighnmet.dll
+C:\Users\Hima\source\repos\Day02G01\Assighnmet\bin\Debug\net8.0\Assighnmet.pdb
+C:\Users\Hima\source\repos\Day02G01\Assighnmet\obj\Debug\net8.0\Assighnmet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hima\source\repos\Day02G01\Assighnmet\obj\Debug\net8.0\Assighnmet.AssemblyInfoInputs.cache
+C:\Users\Hima\source\repos\Day02G01\Assighnmet\obj\Debug\net8.0\Assighnmet.AssemblyInfo.cs
+C:\Users\Hima\source\repos\Day02G01\Assighnmet\obj\Debug\net8.0\Assighnmet.csproj.CoreCompileInputs.cache
+C:\Users\Hima\source\repos\Day02G01\Assighnmet\obj\Debug\net8.0\Assighnmet.dll
+C:\Users\Hima\source\repos\Day02G01\Assighnmet\obj\Debug\net8.0\refint\Assighnmet.dll
+C:\Users\Hima\source\repos\Day02G01\Assighnmet\obj\Debug\net8.0\Assighnmet.pdb
+C:\Users\Hima\source\repos\Day02G01\Assighnmet\obj\Debug\net8.0\Assighnmet.genruntimeconfig.cache
+C:\Users\Hima\source\repos\Day02G01\Assighnmet\obj\Debug\net8.0\ref\Assighnmet.dll
